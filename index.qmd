@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: "Me Wario"
+author: "Me Wario!"
 format: html
 editor: visual
 ---
